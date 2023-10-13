@@ -1,6 +1,6 @@
 {
   "homepage": "https://iamasmasf.github.io/SchoolWebSite",
-  "name": "my-app",
+  "name": "start",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -40,5 +40,16 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamasmasf/SchoolWebSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamasmasf/SchoolWebSite/issues"
   }
 }
